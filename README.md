@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm ANOTHER17!
 
-<!--
-**anothers17/anothers17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Engineering student in **Electronic & Embedded Systems**, sharing my journey in building smart systems<br/>
+📡 Passionate about **IoT, microcontrollers, and AI integration** for real-world applications<br/>
+🧠 Interested in **automation, edge intelligence, and hardware–software** co-design<br/>
+🛠️ Hands-on experience with embedded systems, full-stack development, and cloud-connected devices<br/>
+🌱 Currently learning **RTOS, Edge AI optimization, and Flutter** for smart dashboards<br/>
+💭 Exploring how AI can enhance **embedded and IoT systems efficiently**<br/>
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
+<div align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=anothers17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180"
+       style="margin-left:12px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anothers17&theme=midnight-purple&hide_border=false&layout=compact&card_width=445&langs_count=8" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### 🛠️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### 🔌 Embedded & IoT
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-000000?style=flat)
+![IoT](https://img.shields.io/badge/IoT-00BFFF?style=flat)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-FF6F00?style=flat)
+
+### 🤖 AI & Computer Vision
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat)
+![AI](https://img.shields.io/badge/AI-412991?style=flat)
+
+### 🌐 Frontend & Backend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 💼 Experience
+
+**Full-stack Engineering Intern – MyOrder.ai**  
+Developed an internal **HR web application**, handling both **frontend and backend**.
+
