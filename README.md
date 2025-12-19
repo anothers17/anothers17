@@ -10,7 +10,7 @@
 ## 📊 My GitHub Stats
 <div align="center"> 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=anothers17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /> 
-  <img height="180" style="margin-left:12px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anothers17&theme=midnight-purple&hide_border=false&layout=compact&card_width=445&langs_count=8&include_all_commits=true" /> 
+  <img height="180" style="margin-left:12px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anothers17&theme=midnight-purple&hide_border=false&layout=compact&card_width=445&langs_count=8" /> 
 </div>
 
 ## 💻 Tech Stack
