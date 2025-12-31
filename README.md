@@ -9,9 +9,11 @@
 
 ## 📊 My GitHub Stats
 <div align="center"> 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anothers17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" /> 
-  <img height="180" style="margin-left:12px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anothers17&theme=midnight-purple&hide_border=false&layout=compact&card_width=445&langs_count=8&cache_seconds=1800&v=1" /> 
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anothers17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
+  <img height="180" style="margin-left:12px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anothers17&theme=midnight-purple&hide_border=false&layout=compact&card_width=445&langs_count=6&cache_seconds=1800&v=2" />
 </div>
+
+
 
 
 ## 💻 Tech Stack
