@@ -1,21 +1,3 @@
-# 👋 Hi, I'm ANOTHER17!
-
-👨‍💻 Engineering student in **Electronic & Embedded Systems**, sharing my journey in building smart systems<br/>
-📡 Passionate about **IoT, microcontrollers, and AI integration** for real-world applications<br/>
-🧠 Interested in **automation, edge intelligence, and hardware–software** co-design<br/>
-🛠️ Hands-on experience with embedded systems, full-stack development, and cloud-connected devices<br/>
-🌱 Currently learning **RTOS, Edge AI optimization, and Flutter** for smart dashboards<br/>
-💭 Exploring how AI can enhance **embedded and IoT systems efficiently**<br/>
-
-## 📊 My GitHub Stats
-<div align="center"> 
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anothers17&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
-  <img height="180" style="margin-left:12px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anothers17&theme=midnight-purple&hide_border=false&layout=compact&card_width=445&langs_count=6&cache_seconds=1800&v=2" />
-</div>
-
-
-
-
 ## 💻 Tech Stack
 
 ### 🛠️ Languages
@@ -29,6 +11,7 @@
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=flat)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-FF6F00?style=flat)
+![PCB Design](https://img.shields.io/badge/PCB_Design-0A7D5C?style=flat)
 
 ### 🤖 AI & Computer Vision
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat)
