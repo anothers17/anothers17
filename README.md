@@ -52,6 +52,9 @@
 
 **Full-stack Engineering Intern – MyOrder.ai**  
 Developed an internal **HR web application**, handling both **frontend and backend**.
+**Test Engineer (DCBU New Model) – Delta Electronics Thailand**  
+-Tested and validated new product models
+-Improved product quality through debugging & reporting
 
 ## 📡 Passion
 Skill: **PCB Design**
